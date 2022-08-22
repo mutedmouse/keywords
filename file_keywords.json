@@ -32,6 +32,6 @@
         "description": "sliver folder",
         "ignore": [],
         "weight": 5,
-        "tags": ["post-exploitation framework", "sliver
+        "tags": ["post-exploitation framework", "sliver"]
     }
 ]
