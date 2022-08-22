@@ -14,7 +14,7 @@
         "tags": ["post-exploitation framework", "cobaltstrike"]
     },
     {
-        "keyword": "manjasuka*",
+        "keyword": "manjasuka",
         "description": "chinese post exploitation",
         "ignore": [],
         "weight": 5,
@@ -28,7 +28,7 @@
         "tags": ["post-exploitation framework", "bruteratel"]
     },
     {
-        "keyword": ".sliver
+        "keyword": ".sliver"
         "description": "sliver folder",
         "ignore": [],
         "weight": 5,
