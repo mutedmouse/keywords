@@ -1,0 +1,37 @@
+[
+    {
+        "keyword": ".msf4",
+        "description": "metasploit",
+        "ignore": [],
+        "weight": 5,
+        "tags": ["post-exploitation framework", "metasploit"]
+    },
+    {
+        "keyword": "cobaltstrike.jar",
+        "description": "cobaltstrike java file",
+        "ignore": [],
+        "weight": 5,
+        "tags": ["post-exploitation framework", "cobaltstrike"]
+    },
+    {
+        "keyword": "manjasuka*",
+        "description": "chinese post exploitation",
+        "ignore": [],
+        "weight": 5,
+        "tags": ["post-exploitation framework", "manjasuka"]
+    },
+    {
+        "keyword": ".brauth",
+        "description": "bruteratel auth file",
+        "ignore": [],
+        "weight": 5,
+        "tags": ["post-exploitation framework", "bruteratel"]
+    },
+    {
+        "keyword": ".sliver
+        "description": "sliver folder",
+        "ignore": [],
+        "weight": 5,
+        "tags": ["post-exploitation framework", "sliver
+    }
+]
